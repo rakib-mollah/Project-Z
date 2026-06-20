@@ -11,11 +11,11 @@
 ## 🎥 Project Demonstration
 
 <div align="center">
-  <video width="100%" controls>
-    <source src="project%20z%20demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p><em>Interactive geospatial visualization featuring real-time AI policy generation.</em></p>
+
+![Project Z Demo](project%20z%20demo.mp4)
+
+*Interactive geospatial visualization featuring real-time AI policy generation.*
+
 </div>
 
 ---
@@ -61,3 +61,14 @@ An asynchronous, data-injected text generation pipeline providing real-time pres
 
 ---
 
+## ⚙️ Installation & Setup
+
+### Prerequisites
+* Python 3.8+
+* An OpenRouter API Key
+
+### Running the Backend (AI Chat Server)
+1. Clone the repository:
+```bash
+   git clone [https://github.com/rakib-mollah/Project-Z.git](https://github.com/rakib-mollah/Project-Z.git)
+   cd Project-Z
