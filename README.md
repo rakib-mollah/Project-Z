@@ -12,7 +12,7 @@
 
 <div align="center">
   <video width="100%" controls>
-    <source src="https://github.com/rakib-mollah/Project-Z/raw/main/project%20z%20demo.mp4" type="video/mp4">
+    <source src="project%20z%20demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p><em>Interactive geospatial visualization featuring real-time AI policy generation.</em></p>
