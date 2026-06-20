@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Project Z Demo](project%20z%20demo.mp4)
+![Project Z Demo](https://github.com/rakib-mollah/Project-Z/raw/main/project%20z%20demo.gif)
 
 *Interactive geospatial visualization featuring real-time AI policy generation.*
 
@@ -61,14 +61,3 @@ An asynchronous, data-injected text generation pipeline providing real-time pres
 
 ---
 
-## ⚙️ Installation & Setup
-
-### Prerequisites
-* Python 3.8+
-* An OpenRouter API Key
-
-### Running the Backend (AI Chat Server)
-1. Clone the repository:
-```bash
-   git clone [https://github.com/rakib-mollah/Project-Z.git](https://github.com/rakib-mollah/Project-Z.git)
-   cd Project-Z
